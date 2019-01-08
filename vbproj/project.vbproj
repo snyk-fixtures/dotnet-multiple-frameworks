@@ -13,7 +13,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>SnykTestVB</RootNamespace>
     <AssemblyName>SnykTestVB</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1,v4.0.3</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1;v4.0.3</TargetFrameworkVersion>
     <MyType>Custom</MyType>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
