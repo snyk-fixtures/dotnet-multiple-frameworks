@@ -13,7 +13,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>SnykTestVB</RootNamespace>
     <AssemblyName>SnykTestVB</AssemblyName>
-    <TargetFrameworks>netcoreapp1.1;netcoreapp1.2</TargetFrameworks>
+    <TargetFrameworks>netcoreapp1.3;netcoreapp1.2</TargetFrameworks>
     <MyType>Custom</MyType>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
